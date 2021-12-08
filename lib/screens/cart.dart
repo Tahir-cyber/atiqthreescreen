@@ -1,6 +1,6 @@
 // ignore_for_file: prefer_const_constructors, prefer_const_literals_to_create_immutables
 
-import 'dart:ui';
+
 
 import 'package:e_commerce_app/constant.dart';
 import 'package:e_commerce_app/screens/detailscreen.dart';
